@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_SrTm2(AgPb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95623992
+_cell_length_b   4.95623992
+_cell_length_c   9.67081441
+_cell_angle_alpha   75.15249462
+_cell_angle_beta   75.15249464
+_cell_angle_gamma   60.00000001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTm2(AgPb)2
+_chemical_formula_sum   'Sr1 Tm2 Ag2 Pb2'
+_cell_volume   196.51821317
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1
+  Tm  Tm1  1  0.13682359  0.13682359  0.58953024  1
+  Tm  Tm2  1  0.86317641  0.86317641  0.41046976  1
+  Ag  Ag3  1  0.55269064  0.55269064  0.34192807  1
+  Ag  Ag4  1  0.44730936  0.44730936  0.65807193  1
+  Pb  Pb5  1  0.74223882  0.74223882  0.77328455  1
+  Pb  Pb6  1  0.25776118  0.25776118  0.22671545  1

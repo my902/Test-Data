@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AlSi2AgS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41466274
+_cell_length_b   8.96176936
+_cell_length_c   8.96176936
+_cell_angle_alpha   87.87357298
+_cell_angle_beta   71.33693124
+_cell_angle_gamma   71.33693121
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlSi2AgS6
+_chemical_formula_sum   'Al2 Si4 Ag2 S12'
+_cell_volume   461.20208564
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.25000000  0.19799718  0.80200282  1
+  Al  Al1  1  0.75000000  0.80200282  0.19799718  1
+  Si  Si2  1  0.30255353  0.79466283  0.63619138  1
+  Si  Si3  1  0.19744647  0.36380862  0.20533717  1
+  Si  Si4  1  0.69744647  0.20533717  0.36380862  1
+  Si  Si5  1  0.80255353  0.63619138  0.79466283  1
+  Ag  Ag6  1  0.25000000  0.78463274  0.21536726  1
+  Ag  Ag7  1  0.75000000  0.21536726  0.78463274  1
+  S  S8  1  0.11986713  0.98480710  0.81268745  1
+  S  S9  1  0.38013287  0.18731255  0.01519290  1
+  S  S10  1  0.88013287  0.01519290  0.18731255  1
+  S  S11  1  0.61986713  0.81268745  0.98480710  1
+  S  S12  1  0.40945554  0.87915561  0.40367254  1
+  S  S13  1  0.09054446  0.59632746  0.12084439  1
+  S  S14  1  0.59054446  0.12084439  0.59632746  1
+  S  S15  1  0.90945554  0.40367254  0.87915561  1
+  S  S16  1  0.05025111  0.69714782  0.59781300  1
+  S  S17  1  0.44974889  0.40218700  0.30285218  1
+  S  S18  1  0.94974889  0.30285218  0.40218700  1
+  S  S19  1  0.55025111  0.59781300  0.69714782  1

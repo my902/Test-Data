@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ba8AgAu4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.76188577
+_cell_length_b   11.59258381
+_cell_length_c   10.71248329
+_cell_angle_alpha   85.51817791
+_cell_angle_beta   77.15827227
+_cell_angle_gamma   78.14796019
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba8AgAu4
+_chemical_formula_sum   'Ba8 Ag1 Au4'
+_cell_volume   563.94640918
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.18720820  0.37698057  0.24860203  1
+  Ba  Ba1  1  0.54803590  0.29219771  0.61173150  1
+  Ba  Ba2  1  0.47421872  0.66661057  0.38495198  1
+  Ba  Ba3  1  0.83494547  0.58199537  0.74811369  1
+  Ba  Ba4  1  0.91036709  0.22402095  0.95524588  1
+  Ba  Ba5  1  0.18484861  0.94129902  0.68900275  1
+  Ba  Ba6  1  0.11196573  0.73470812  0.04135943  1
+  Ba  Ba7  1  0.83744602  0.01762707  0.30748089  1
+  Ag  Ag8  1  0.51167649  0.97908514  0.99756189  1
+  Au  Au9  1  0.32351719  0.43546303  0.91750160  1
+  Au  Au10  1  0.83236543  0.80391034  0.53135880  1
+  Au  Au11  1  0.18992286  0.15503855  0.46511672  1
+  Au  Au12  1  0.69861730  0.52343855  0.07932784  1

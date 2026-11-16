@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CsAg2(TeS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45783189
+_cell_length_b   12.25882932
+_cell_length_c   6.89935638
+_cell_angle_alpha   134.62079003
+_cell_angle_beta   104.07328058
+_cell_angle_gamma   61.16062281
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsAg2(TeS3)2
+_chemical_formula_sum   'Cs1 Ag2 Te2 S6'
+_cell_volume   388.62523044
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.50000000  -0.00000000  0.50000000  1
+  Ag  Ag1  1  0.07320527  0.65439479  0.61637631  1
+  Ag  Ag2  1  0.92679473  0.34560521  0.38362369  1
+  Te  Te3  1  0.79955071  0.42083303  0.94158965  1
+  Te  Te4  1  0.20044929  0.57916697  0.05841035  1
+  S  S5  1  0.36983122  0.64303218  0.92352821  1
+  S  S6  1  0.11644343  0.35003877  0.13156954  1
+  S  S7  1  0.08393035  0.81851822  0.53581448  1
+  S  S8  1  0.88355657  0.64996123  0.86843046  1
+  S  S9  1  0.91606965  0.18148178  0.46418552  1
+  S  S10  1  0.63016878  0.35696782  0.07647179  1

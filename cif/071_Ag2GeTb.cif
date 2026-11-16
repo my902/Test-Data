@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TbAg2Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.10033465
+_cell_length_b   3.10033465
+_cell_length_c   10.68914463
+_cell_angle_alpha   81.66141329
+_cell_angle_beta   81.66141327
+_cell_angle_gamma   59.99999995
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbAg2Ge
+_chemical_formula_sum   'Tb1 Ag2 Ge1'
+_cell_volume   87.72320063
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.50000000  0.50000000  0.50000000  1
+  Tb  Tb1  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag2  1  0.09324147  0.09324147  0.72027658  1
+  Ag  Ag3  1  0.90675853  0.90675853  0.27972342  1

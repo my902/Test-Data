@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Pr3(AgHg)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17844820
+_cell_length_b   5.19522604
+_cell_length_c   8.62957221
+_cell_angle_alpha   107.23650224
+_cell_angle_beta   90.03103909
+_cell_angle_gamma   119.86156518
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3(AgHg)2
+_chemical_formula_sum   'Pr3 Ag2 Hg2'
+_cell_volume   189.19887294
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.00000000  0.00000000  0.00000000  1
+  Pr  Pr1  1  0.56914928  0.13909482  0.70685626  1
+  Pr  Pr2  1  0.43085072  0.86090518  0.29314374  1
+  Ag  Ag3  1  0.70173147  0.40366724  0.10454281  1
+  Ag  Ag4  1  0.29826853  0.59633276  0.89545719  1
+  Hg  Hg5  1  0.14798531  0.29580078  0.44358773  1
+  Hg  Hg6  1  0.85201469  0.70419922  0.55641227  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Li2Ag3Bi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.80984860
+_cell_length_b   4.85295090
+_cell_length_c   7.70195350
+_cell_angle_alpha   107.28429601
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.70662910
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Ag3Bi2
+_chemical_formula_sum   'Li2 Ag3 Bi2'
+_cell_volume   146.73122442
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.93275869  0.86551837  0.30212373  1
+  Li  Li1  1  0.06724131  0.13448163  0.69787627  1
+  Ag  Ag2  1  0.50000000  0.00000000  0.00000000  1
+  Ag  Ag3  1  0.63466865  0.26933731  0.40907740  1
+  Ag  Ag4  1  0.36533135  0.73066269  0.59092260  1
+  Bi  Bi5  1  0.77146255  0.54292409  0.81351763  1
+  Bi  Bi6  1  0.22853745  0.45707591  0.18648237  1
