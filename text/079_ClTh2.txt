@@ -1,0 +1,1 @@
+Th2Cl is high (beta) Cristobalite structured and crystallizes in the cubic Fd-3m space group. Th(1) is bonded in a linear geometry to two equivalent Cl(1) atoms. Both Th(1)-Cl(1) bond lengths are 2.62 Å. Cl(1) is bonded to four equivalent Th(1) atoms to form corner-sharing ClTh4 tetrahedra.
